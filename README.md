@@ -1,5 +1,5 @@
 # Linear Search and Binary search
-## PROGRAM DEVELOPED BY : RAKSHA DHARANIKA
+## PROGRAM DEVELOPED BY : RAKSHA DHARANIKA V
 ## REGISTER NO : 212223230167
 ## DEP : AIDS
 ## Aim:
@@ -20,9 +20,11 @@ To write a program to perform linear search and binary search using python progr
 5.	Else, compare x with the middle element of the elements on the left side of mid. This is done by setting high to high = mid - 1.
 6.	Repeat steps 2 to 5 until low meets high
 ## Program:
+```
 ## PROGRAM DEVELOPED BY : RAKSHA DHARANIKA
 ## REGISTER NO : 212223230167
 ## DEP : AIDS
+```
 i)	#Use a linear search method to match the item in a list.
 ```
 def search(array,key,n):
@@ -109,8 +111,27 @@ else:
 ```
 ## Sample Input and Output
 1.![Screenshot (115)](https://github.com/rakshadharanika/Search-Algorithms/assets/149348380/19976e03-5a72-413d-bc8f-e99ad35bf9a3)
+
+
+
+
+
+
+
+
+
 2.![Screenshot (116)](https://github.com/rakshadharanika/Search-Algorithms/assets/149348380/1a0f7d35-66ed-4155-b949-648d7436454c)
+
+
+
+
+
+
+
+
+
 3.![Screenshot (117)](https://github.com/rakshadharanika/Search-Algorithms/assets/149348380/03ea860a-627f-43fb-a848-47894c0426e6)
+
 
 
 
