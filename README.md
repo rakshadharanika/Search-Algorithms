@@ -110,7 +110,13 @@ else:
 
 ```
 ## Sample Input and Output
-1.![Screenshot (115)](https://github.com/rakshadharanika/Search-Algorithms/assets/149348380/19976e03-5a72-413d-bc8f-e99ad35bf9a3)
+1.
+
+
+
+
+
+![Screenshot (115)](https://github.com/rakshadharanika/Search-Algorithms/assets/149348380/19976e03-5a72-413d-bc8f-e99ad35bf9a3)
 
 
 
@@ -120,7 +126,13 @@ else:
 
 
 
-2.![Screenshot (116)](https://github.com/rakshadharanika/Search-Algorithms/assets/149348380/1a0f7d35-66ed-4155-b949-648d7436454c)
+2.
+
+
+
+
+
+![Screenshot (116)](https://github.com/rakshadharanika/Search-Algorithms/assets/149348380/1a0f7d35-66ed-4155-b949-648d7436454c)
 
 
 
@@ -130,7 +142,15 @@ else:
 
 
 
-3.![Screenshot (117)](https://github.com/rakshadharanika/Search-Algorithms/assets/149348380/03ea860a-627f-43fb-a848-47894c0426e6)
+3.
+
+
+
+
+
+
+
+![Screenshot (117)](https://github.com/rakshadharanika/Search-Algorithms/assets/149348380/03ea860a-627f-43fb-a848-47894c0426e6)
 
 
 
